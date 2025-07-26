@@ -49,11 +49,11 @@ The project aims to derive actionable insights into workforce dynamics by analyz
 
 2. **Dashboard - Data For Year 2011**
    
-![Dashboard - Data For Year 2011](Dashboard%20Preview/Year%202011%20Filter.png)
+![Dashboard - Data For Year 2011](Year%202011%20Filter.png)
 
 3.**Dashboard - Active Employees in Production Department**
 
-![Dashboard Preview - Active Employees in Production Department](Dashboard%20Preview/Active%20Employees%20in%20Production%20Department.png)
+![Dashboard Preview - Active Employees in Production Department](Active%20Employees%20in%20Production%20Department.png)
 
 
 
