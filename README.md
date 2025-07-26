@@ -45,7 +45,7 @@ The project aims to derive actionable insights into workforce dynamics by analyz
 
 1. **Dashboard**
    
-![Dashboard Preview](Dashboard%20Preview/Dashboard.png))
+![Dashboard Preview](Dashboard.png))
 
 2. **Dashboard - Data For Year 2011**
    
