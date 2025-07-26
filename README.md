@@ -55,10 +55,7 @@ The project aims to derive actionable insights into workforce dynamics by analyz
 
 ![Dashboard Preview - Active Employees in Production Department](Dashboard%20Preview/Active%20Employees%20in%20Production%20Department.png)
 
----
 
-## Contact
-Feel free to reach out for collaboration or questions:  
-**Gurleen Singh**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/-gurleen-singh)
+
+
 
